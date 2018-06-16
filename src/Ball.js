@@ -23,7 +23,8 @@ const styles = {
         width: 60,
         borderRadius: 30,
         borderWidth: 30,
-        borderColor: 'black'
+        borderColor: 'black',
+        color:'red'
     }
 };
 
